@@ -1,0 +1,28 @@
+# Unraveling the Evolutionary Dynamics of Toxin-Antitoxin Systems in Diverse Genetic Lineages of Escherichia coli including the High-risk Clonal Complexes
+
+Anuradha Singh, Aditya Kumar Lankapalli, Suresh Kumar Mendem, Torsten Semmler, Niyaz Ahmed
+
+Fig. S1: Scree plot depicting the explained variance of the top 10 principal components.
+
+Fig. S2: Heatmap illustrating the percentage prevalence of antitoxin groups across 19 
+STs of E. coli. The x-axis depicts ST lineage, while the y-axis depicts antitoxin groups 
+identified. The color bar on the right side depicts % presence.
+
+Fig. S3: Heatmap illustrating the percentage prevalence of TA pair across 19 STs of E. 
+coli. The x-axis depicts ST lineage, while the y-axis depicts the TA pair identified. The color 
+bar on the right side depicts % presence.
+
+Fig. S4: Toxin-antitoxin network of E. coli isolates with red-colored nodes depicting toxin 
+hits and green-colored nodes depicting antitoxin partners, while edges represent 
+association between TA pairs.
+
+Fig. S 5: Distribution plots for the range of amino acid lengths selected for toxin/antitoxin 
+prediction
+
+Fig. S6: Heatmap illustrating the percentage prevalence of orphan antitoxins across 19 
+STs of E. coli. The x-axis depicts ST lineage, while the y-axis depicts orphan antitoxin 
+identified. The color bar on the right side depicts % presence
+
+Fig. S7. Heatmap illustrating the percentage prevalence of orphan toxins across 19 STs 
+of E. coli. The x-axis depicts ST lineage, while the y-axis depicts orphan toxin identified. 
+The color bar on the right side depicts % presence
